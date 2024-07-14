@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				432
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "River Idle"
+		},
+		{
+			"offsets": [
+				-20,
+				215
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "River Down"
+		},
+		{
+			"offsets": [
+				39,
+				414
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "River Left"
+		},
+		{
+			"offsets": [
+				-3,
+				469
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "River Up"
+		},
+		{
+			"offsets": [
+				-20,
+				415
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "River Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/River_AssetsBB",
+	"position": [
+		210,
+		350
+	],
+	"healthicon": "river",
+	"flip_x": false,
+	"healthbar_colors": [
+		159,
+		23,
+		98
+	],
+	"camera_position": [
+		-110,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

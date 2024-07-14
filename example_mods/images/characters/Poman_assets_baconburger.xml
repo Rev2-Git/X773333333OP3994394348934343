@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Poman_assets_baconburger.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Poman Down Pose0000" x="100" y="100" width="403" height="503"/>
+	<SubTexture name="Poman Down Pose0001" x="100" y="100" width="403" height="503"/>
+	<SubTexture name="Poman Down Pose0002" x="603" y="100" width="403" height="503"/>
+	<SubTexture name="Poman Down Pose0003" x="603" y="100" width="403" height="503"/>
+	<SubTexture name="Poman Idle Dance0000" x="1106" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0001" x="1106" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0002" x="1596" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0003" x="1596" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0004" x="2086" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0005" x="2086" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0006" x="2576" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0007" x="2576" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0008" x="3066" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0009" x="3066" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0010" x="3066" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0011" x="3066" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0012" x="3066" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Idle Dance0013" x="3066" y="100" width="390" height="547"/>
+	<SubTexture name="Poman Left Pose0000" x="100" y="747" width="452" height="546"/>
+	<SubTexture name="Poman Left Pose0001" x="100" y="747" width="452" height="546"/>
+	<SubTexture name="Poman Left Pose0002" x="652" y="747" width="452" height="546"/>
+	<SubTexture name="Poman Left Pose0003" x="652" y="747" width="452" height="546"/>
+	<SubTexture name="Poman Right Pose0000" x="1204" y="747" width="398" height="535"/>
+	<SubTexture name="Poman Right Pose0001" x="1204" y="747" width="398" height="535"/>
+	<SubTexture name="Poman Right Pose0002" x="1702" y="747" width="398" height="535"/>
+	<SubTexture name="Poman Right Pose0003" x="1702" y="747" width="398" height="535"/>
+	<SubTexture name="Poman Up Pose0000" x="2200" y="747" width="400" height="575"/>
+	<SubTexture name="Poman Up Pose0001" x="2200" y="747" width="400" height="575"/>
+	<SubTexture name="Poman Up Pose0002" x="2700" y="747" width="400" height="575"/>
+	<SubTexture name="Poman Up Pose0003" x="2700" y="747" width="400" height="575"/>
+	<SubTexture name="down MISS0000" x="3200" y="747" width="406" height="506"/>
+	<SubTexture name="down MISS0001" x="100" y="1422" width="406" height="506"/>
+	<SubTexture name="down MISS0002" x="100" y="1422" width="406" height="506"/>
+	<SubTexture name="down MISS0003" x="606" y="1422" width="406" height="506"/>
+	<SubTexture name="down MISS0004" x="606" y="1422" width="406" height="506"/>
+	<SubTexture name="left MISS0000" x="1112" y="1422" width="456" height="547"/>
+	<SubTexture name="left MISS0001" x="1668" y="1422" width="456" height="547"/>
+	<SubTexture name="left MISS0002" x="1668" y="1422" width="456" height="547"/>
+	<SubTexture name="left MISS0003" x="2224" y="1422" width="456" height="547"/>
+	<SubTexture name="left MISS0004" x="2224" y="1422" width="456" height="547"/>
+	<SubTexture name="right MISS0000" x="2780" y="1422" width="402" height="537"/>
+	<SubTexture name="right MISS0001" x="3282" y="1422" width="402" height="537"/>
+	<SubTexture name="right MISS0002" x="3282" y="1422" width="402" height="537"/>
+	<SubTexture name="right MISS0003" x="100" y="2069" width="402" height="537"/>
+	<SubTexture name="right MISS0004" x="100" y="2069" width="402" height="537"/>
+	<SubTexture name="up MISS0000" x="602" y="2069" width="399" height="575"/>
+	<SubTexture name="up MISS0001" x="1101" y="2069" width="399" height="575"/>
+	<SubTexture name="up MISS0002" x="1101" y="2069" width="399" height="575"/>
+	<SubTexture name="up MISS0003" x="1600" y="2069" width="399" height="575"/>
+	<SubTexture name="up MISS0004" x="1600" y="2069" width="399" height="575"/>
+</TextureAtlas>

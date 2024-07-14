@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gf-IDLE"
+		},
+		{
+			"offsets": [
+				10,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gf-LEFT"
+		},
+		{
+			"offsets": [
+				-12,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gf-DOWN"
+		},
+		{
+			"offsets": [
+				-15,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gf-UP"
+		},
+		{
+			"offsets": [
+				-15,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gf-RIGHT"
+		},
+		{
+			"offsets": [
+				10,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MissLEFT"
+		},
+		{
+			"offsets": [
+				-13,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MissDOWN"
+		},
+		{
+			"offsets": [
+				-16,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MissUP"
+		},
+		{
+			"offsets": [
+				-17,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MissRIGHT"
+		},
+		{
+			"offsets": [
+				-15,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punched",
+			"indices": [],
+			"name": "HIT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				-1
+			],
+			"anim": "chomped",
+			"fps": 24,
+			"name": "BITE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				0
+			],
+			"anim": "punch",
+			"fps": 24,
+			"name": "PUNCH",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "Gf-DODGE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfsuit",
+	"position": [
+		110,
+		260
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		10,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				282
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kiddoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				284
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kiddoLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				215
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kiddoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				330
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kiddoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				280
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kiddoRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				245
+			],
+			"anim": "punch",
+			"fps": 24,
+			"name": "kiddoPunch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				118
+			],
+			"anim": "bite",
+			"fps": 24,
+			"name": "kiddoBite",
+			"indices": []
+		},
+		{
+			"offsets": [
+				163,
+				317
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "prepunch",
+			"indices": [],
+			"name": "kiddoPrePunch"
+		},
+		{
+			"offsets": [
+				192,
+				273
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "prebite",
+			"indices": [],
+			"name": "kiddoPreBite"
+		},
+		{
+			"offsets": [
+				12,
+				287
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "kiddoHey"
+		},
+		{
+			"offsets": [
+				18,
+				433
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "kiddoLaugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kiddo_assets_gf",
+	"position": [
+		210,
+		350
+	],
+	"healthicon": "kiddo",
+	"flip_x": false,
+	"healthbar_colors": [
+		214,
+		14,
+		81
+	],
+	"camera_position": [
+		-110,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

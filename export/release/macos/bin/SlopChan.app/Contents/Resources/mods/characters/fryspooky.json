@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				12
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "spooky HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spooky DOWN note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				2,
+				6
+			],
+			"name": "spooky dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "spooky dance idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				26
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky UP NOTE"
+		},
+		{
+			"offsets": [
+				121,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "note sing left"
+		},
+		{
+			"offsets": [
+				-151,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spooky sing right"
+		},
+		{
+			"offsets": [
+				-11,
+				-77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Spooky MISS DOWN"
+		},
+		{
+			"offsets": [
+				-144,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Spooky MISS RIGHT"
+		},
+		{
+			"offsets": [
+				120,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Spooky MISS LEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Spooky MISS UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "spooky dance idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fryspooky",
+	"position": [
+		-630,
+		190
+	],
+	"healthicon": "spooky",
+	"flip_x": true,
+	"healthbar_colors": [
+		213,
+		126,
+		0
+	],
+	"camera_position": [
+		-370,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

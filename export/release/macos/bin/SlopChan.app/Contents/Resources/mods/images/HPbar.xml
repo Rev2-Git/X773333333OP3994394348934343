@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HPbar.png">
+<SubTexture name="HPbar 14bar0000" x="0" y="0" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 13bar0000" x="0" y="36" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 12bar0000" x="0" y="72" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 11bar0000" x="0" y="108" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 10bar0000" x="0" y="144" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 9bar0000" x="0" y="180" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 8bar0000" x="0" y="216" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 7bar0000" x="0" y="252" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 6bar0000" x="313" y="0" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 5bar0000" x="313" y="36" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 4bar0000" x="313" y="72" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar 3bar0000" x="313" y="108" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar bar0001" x="313" y="144" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+<SubTexture name="HPbar bar0000" x="313" y="180" width="313" height="36" frameX="-28" frameY="-11" frameWidth="351" frameHeight="77" />
+</TextureAtlas>

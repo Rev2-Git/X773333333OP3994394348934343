@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				193,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sketch"
+		},
+		{
+			"offsets": [
+				193,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sketch"
+		},
+		{
+			"offsets": [
+				193,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "sketch"
+		},
+		{
+			"offsets": [
+				193,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sketch"
+		},
+		{
+			"offsets": [
+				193,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sketch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bb_monster",
+	"position": [
+		10,
+		-170
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-184,
+				252
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "octi idle"
+		},
+		{
+			"offsets": [
+				-201,
+				107
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "octi down"
+		},
+		{
+			"offsets": [
+				-207,
+				305
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "octi up"
+		},
+		{
+			"offsets": [
+				-147,
+				251
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "octi left"
+		},
+		{
+			"offsets": [
+				-240,
+				256
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "octi right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/octigone",
+	"position": [
+		-160,
+		330
+	],
+	"healthicon": "gurp",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		36,
+		135
+	],
+	"camera_position": [
+		140,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

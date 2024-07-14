@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="fog.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="fog0000" x="10" y="10" width="3029" height="792"/>
+	<SubTexture name="fog0001" x="10" y="10" width="3029" height="792"/>
+	<SubTexture name="fog0002" x="10" y="10" width="3029" height="792"/>
+	<SubTexture name="fog0003" x="10" y="10" width="3029" height="792"/>
+</TextureAtlas>

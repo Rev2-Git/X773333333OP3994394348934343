@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kiddo_assets_gf.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kiddoBite0000" x="10" y="10" width="685" height="518" pivotX="-46.25" pivotY="-175.7"/>
+	<SubTexture name="kiddoBite0001" x="705" y="10" width="685" height="518"/>
+	<SubTexture name="kiddoBite0002" x="1400" y="10" width="685" height="518"/>
+	<SubTexture name="kiddoBite0003" x="2095" y="10" width="685" height="518"/>
+	<SubTexture name="kiddoBite0004" x="2790" y="10" width="685" height="518"/>
+	<SubTexture name="kiddoBite0005" x="2790" y="10" width="685" height="518"/>
+	<SubTexture name="kiddoBite0006" x="2790" y="10" width="685" height="518"/>
+	<SubTexture name="kiddoBite0007" x="2790" y="10" width="685" height="518"/>
+	<SubTexture name="kiddoBite0008" x="2790" y="10" width="685" height="518"/>
+	<SubTexture name="kiddoBite0009" x="3485" y="10" width="685" height="518"/>
+	<SubTexture name="kiddoDown0000" x="4180" y="10" width="449" height="615" pivotX="-13.7" pivotY="-35.75"/>
+	<SubTexture name="kiddoDown0001" x="4180" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0002" x="4639" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0003" x="4639" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0004" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0005" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0006" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0007" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0008" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0009" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0010" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0011" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0012" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0013" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0014" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0015" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0016" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0017" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0018" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoDown0019" x="5098" y="10" width="449" height="615"/>
+	<SubTexture name="kiddoHey0000" x="5557" y="10" width="384" height="696" pivotX="27.55" pivotY="4.4"/>
+	<SubTexture name="kiddoHey0001" x="5557" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0002" x="5951" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0003" x="5951" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0004" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0005" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0006" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0007" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0008" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0009" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0010" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0011" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0012" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0013" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0014" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0015" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0016" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0017" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0018" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoHey0019" x="6345" y="10" width="384" height="696"/>
+	<SubTexture name="kiddoIdle0000" x="6739" y="10" width="396" height="689" pivotX="18.85" pivotY="-3.25"/>
+	<SubTexture name="kiddoIdle0001" x="6739" y="10" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0002" x="7145" y="10" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0003" x="7145" y="10" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0004" x="7551" y="10" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0005" x="7551" y="10" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0006" x="10" y="716" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0007" x="10" y="716" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0008" x="416" y="716" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0009" x="416" y="716" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0010" x="416" y="716" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0011" x="416" y="716" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0012" x="416" y="716" width="396" height="689"/>
+	<SubTexture name="kiddoIdle0013" x="416" y="716" width="396" height="689"/>
+	<SubTexture name="kiddoLaugh0000" x="822" y="716" width="765" height="842" pivotX="34.1" pivotY="150.05"/>
+	<SubTexture name="kiddoLaugh0001" x="1597" y="716" width="765" height="842"/>
+	<SubTexture name="kiddoLaugh0002" x="2372" y="716" width="765" height="842"/>
+	<SubTexture name="kiddoLaugh0003" x="3147" y="716" width="765" height="842"/>
+	<SubTexture name="kiddoLeft0000" x="3922" y="716" width="447" height="691" pivotX="-4.8" pivotY="-27.2"/>
+	<SubTexture name="kiddoLeft0001" x="3922" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0002" x="4379" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0003" x="4379" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0004" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0005" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0006" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0007" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0008" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0009" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0010" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0011" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0012" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0013" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0014" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0015" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0016" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0017" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0018" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoLeft0019" x="4836" y="716" width="447" height="691"/>
+	<SubTexture name="kiddoPreBite0000" x="5293" y="716" width="559" height="680" pivotX="212.3" pivotY="-10.6"/>
+	<SubTexture name="kiddoPreBite0001" x="5293" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0002" x="5862" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0003" x="5862" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0004" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0005" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0006" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0007" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0008" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0009" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0010" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0011" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0012" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0013" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0014" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0015" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0016" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0017" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0018" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPreBite0019" x="6431" y="716" width="559" height="680"/>
+	<SubTexture name="kiddoPrePunch0000" x="7000" y="716" width="484" height="720" pivotX="199.55" pivotY="30.25"/>
+	<SubTexture name="kiddoPrePunch0001" x="7000" y="716" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0002" x="7494" y="716" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0003" x="7494" y="716" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0004" x="10" y="1568" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0005" x="10" y="1568" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0006" x="10" y="1568" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0007" x="10" y="1568" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0008" x="10" y="1568" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0009" x="10" y="1568" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0010" x="10" y="1568" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0011" x="10" y="1568" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0012" x="10" y="1568" width="484" height="720"/>
+	<SubTexture name="kiddoPrePunch0013" x="10" y="1568" width="484" height="720"/>
+	<SubTexture name="kiddoPunch0000" x="504" y="1568" width="833" height="642" pivotX="125" pivotY="-48"/>
+	<SubTexture name="kiddoPunch0001" x="1347" y="1568" width="833" height="642"/>
+	<SubTexture name="kiddoPunch0002" x="2190" y="1568" width="833" height="642"/>
+	<SubTexture name="kiddoPunch0003" x="2190" y="1568" width="833" height="642"/>
+	<SubTexture name="kiddoPunch0004" x="3033" y="1568" width="833" height="642"/>
+	<SubTexture name="kiddoPunch0005" x="3033" y="1568" width="833" height="642"/>
+	<SubTexture name="kiddoPunch0006" x="3033" y="1568" width="833" height="642"/>
+	<SubTexture name="kiddoPunch0007" x="3033" y="1568" width="833" height="642"/>
+	<SubTexture name="kiddoPunch0008" x="3033" y="1568" width="833" height="642"/>
+	<SubTexture name="kiddoPunch0009" x="3876" y="1568" width="833" height="642"/>
+	<SubTexture name="kiddoRight0000" x="4719" y="1568" width="414" height="686" pivotX="-2.25" pivotY="-54.4"/>
+	<SubTexture name="kiddoRight0001" x="4719" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0002" x="5143" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0003" x="5143" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0004" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0005" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0006" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0007" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0008" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0009" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0010" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0011" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0012" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0013" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0014" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0015" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0016" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0017" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0018" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoRight0019" x="5567" y="1568" width="414" height="686"/>
+	<SubTexture name="kiddoUp0000" x="5991" y="1568" width="453" height="735" pivotX="-35.45" pivotY="1.3"/>
+	<SubTexture name="kiddoUp0001" x="5991" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0002" x="6454" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0003" x="6454" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0004" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0005" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0006" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0007" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0008" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0009" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0010" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0011" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0012" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0013" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0014" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0015" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0016" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0017" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0018" x="6917" y="1568" width="453" height="735"/>
+	<SubTexture name="kiddoUp0019" x="6917" y="1568" width="453" height="735"/>
+</TextureAtlas>

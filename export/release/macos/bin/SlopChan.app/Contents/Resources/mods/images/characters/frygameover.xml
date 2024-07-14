@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frygameover.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fry game over confirm0000" x="10" y="10" width="588" height="540"/>
+	<SubTexture name="fry game over confirm0001" x="10" y="10" width="588" height="540"/>
+	<SubTexture name="fry game over confirm0002" x="10" y="10" width="588" height="540"/>
+	<SubTexture name="fry game over confirm0003" x="608" y="10" width="514" height="519" frameX="-35" frameY="-17" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0004" x="608" y="10" width="514" height="519" frameX="-35" frameY="-17" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0005" x="608" y="10" width="514" height="519" frameX="-35" frameY="-17" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0006" x="1132" y="10" width="543" height="526" frameX="-22" frameY="-10" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0007" x="1132" y="10" width="543" height="526" frameX="-22" frameY="-10" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0008" x="1132" y="10" width="543" height="526" frameX="-22" frameY="-10" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0009" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0010" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0011" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0012" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0013" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0014" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0015" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0016" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0017" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0018" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0019" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0020" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0021" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0022" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0023" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0024" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0025" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over confirm0026" x="10" y="560" width="548" height="527" frameX="-19" frameY="-9" frameWidth="588" frameHeight="540"/>
+	<SubTexture name="fry game over loop0000" x="568" y="560" width="493" height="462" frameX="0" frameY="0" frameWidth="493" frameHeight="463"/>
+	<SubTexture name="fry game over loop0001" x="568" y="560" width="493" height="462" frameX="0" frameY="0" frameWidth="493" frameHeight="463"/>
+	<SubTexture name="fry game over loop0002" x="568" y="560" width="493" height="462" frameX="0" frameY="0" frameWidth="493" frameHeight="463"/>
+	<SubTexture name="fry game over loop0003" x="1071" y="560" width="493" height="462" frameX="0" frameY="-1" frameWidth="493" frameHeight="463"/>
+	<SubTexture name="fry game over loop0004" x="1071" y="560" width="493" height="462" frameX="0" frameY="-1" frameWidth="493" frameHeight="463"/>
+	<SubTexture name="fry game over loop0005" x="1071" y="560" width="493" height="462" frameX="0" frameY="-1" frameWidth="493" frameHeight="463"/>
+	<SubTexture name="fry game over loop0006" x="10" y="1097" width="493" height="462" frameX="0" frameY="-1" frameWidth="493" frameHeight="463"/>
+	<SubTexture name="fry game over loop0007" x="10" y="1097" width="493" height="462" frameX="0" frameY="-1" frameWidth="493" frameHeight="463"/>
+	<SubTexture name="fry game over loop0008" x="10" y="1097" width="493" height="462" frameX="0" frameY="-1" frameWidth="493" frameHeight="463"/>
+</TextureAtlas>

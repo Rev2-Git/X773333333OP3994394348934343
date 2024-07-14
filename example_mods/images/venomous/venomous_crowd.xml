@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="venomous_crowd.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowd boppin0000" x="10" y="10" width="1110" height="509" pivotX="-361.2" pivotY="-4.2"/>
+	<SubTexture name="crowd boppin0001" x="10" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0002" x="1130" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0003" x="1130" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0004" x="2250" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0005" x="2250" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0006" x="3370" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0007" x="3370" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0008" x="3370" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0009" x="3370" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0010" x="3370" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0011" x="3370" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0012" x="3370" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd boppin0013" x="3370" y="10" width="1110" height="509"/>
+	<SubTexture name="crowd laughing0000" x="4490" y="10" width="1102" height="545" pivotX="-366.2" pivotY="32"/>
+	<SubTexture name="crowd laughing0001" x="5602" y="10" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0002" x="5602" y="10" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0003" x="6714" y="10" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0004" x="6714" y="10" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0005" x="10" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0006" x="10" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0007" x="1122" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0008" x="1122" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0009" x="2234" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0010" x="3346" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0011" x="4458" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0012" x="4458" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0013" x="5570" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0014" x="6682" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0015" x="10" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0016" x="10" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0017" x="1122" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0018" x="2234" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0019" x="3346" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0020" x="3346" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0021" x="4458" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0022" x="5570" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0023" x="6682" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0024" x="6682" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0025" x="10" y="1675" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0026" x="1122" y="1675" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0027" x="2234" y="1675" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0028" x="2234" y="1675" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0029" x="5570" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0030" x="6682" y="565" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0031" x="10" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0032" x="10" y="1120" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0033" x="3346" y="1675" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0034" x="4458" y="1675" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0035" x="5570" y="1675" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0036" x="6682" y="1675" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0037" x="10" y="2230" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0038" x="1122" y="2230" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0039" x="2234" y="2230" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0040" x="3346" y="2230" width="1102" height="545"/>
+	<SubTexture name="crowd laughing0041" x="4458" y="2230" width="1102" height="545"/>
+</TextureAtlas>

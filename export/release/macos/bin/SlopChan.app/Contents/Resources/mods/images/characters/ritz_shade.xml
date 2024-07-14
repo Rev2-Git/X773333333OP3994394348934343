@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ritz.png"><SubTexture name="ritz dMiss0000" x="0" y="0" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz dMiss0001" x="627" y="0" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz dMiss0002" x="1254" y="0" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz down0000" x="1881" y="0" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz down0001" x="2508" y="0" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz hey0000" x="0" y="595" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz hey0001" x="627" y="595" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz hey0002" x="1254" y="595" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz idle0000" x="1881" y="595" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz idle0001" x="2508" y="595" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz idle0002" x="0" y="1190" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz idle0003" x="627" y="1190" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz idle0004" x="1254" y="1190" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz idle0005" x="1881" y="1190" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz left0000" x="2508" y="1190" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz left0001" x="0" y="1785" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz lMiss0000" x="627" y="1785" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz lMiss0001" x="1254" y="1785" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz lMiss0002" x="1881" y="1785" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz right0000" x="2508" y="1785" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz right0001" x="0" y="2380" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz rMiss0000" x="627" y="2380" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz rMiss0001" x="1254" y="2380" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz rMiss0002" x="1881" y="2380" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz uMiss0000" x="2508" y="2380" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz uMiss0001" x="0" y="2975" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz uMiss0002" x="627" y="2975" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz up0000" x="1254" y="2975" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+<SubTexture name="ritz up0001" x="1881" y="2975" width="627" height="595" frameX="0" frameY="0" frameWidth="627" frameHeight="595" />
+</TextureAtlas>

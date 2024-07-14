@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dj IDLE"
+		},
+		{
+			"offsets": [
+				20,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dj LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dj DOWN"
+		},
+		{
+			"offsets": [
+				3,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dj UP"
+		},
+		{
+			"offsets": [
+				-25,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dj RIGHT"
+		},
+		{
+			"offsets": [
+				137,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "dj HEY"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/frydj",
+	"position": [
+		750,
+		40
+	],
+	"healthicon": "frydj",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		77,
+		255
+	],
+	"camera_position": [
+		-490,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

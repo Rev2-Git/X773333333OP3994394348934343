@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mayoidle"
+		},
+		{
+			"offsets": [
+				41,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mayoleft"
+		},
+		{
+			"offsets": [
+				89,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mayodown"
+		},
+		{
+			"offsets": [
+				-15,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mayoup"
+		},
+		{
+			"offsets": [
+				-24,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mayoright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mantikmayo",
+	"position": [
+		30,
+		150
+	],
+	"healthicon": "mire",
+	"flip_x": true,
+	"healthbar_colors": [
+		60,
+		106,
+		157
+	],
+	"camera_position": [
+		60,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

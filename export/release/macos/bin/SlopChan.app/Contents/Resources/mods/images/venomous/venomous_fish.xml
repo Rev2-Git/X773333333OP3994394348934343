@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="venomous_fish.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fishlook0000" x="0" y="0" width="67" height="69" frameX="0" frameY="-8" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0001" x="0" y="0" width="67" height="69" frameX="0" frameY="-8" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0002" x="67" y="0" width="72" height="64" frameX="-1" frameY="-13" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0003" x="67" y="0" width="72" height="64" frameX="-1" frameY="-13" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0004" x="67" y="0" width="72" height="64" frameX="-1" frameY="-13" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0005" x="139" y="0" width="72" height="63" frameX="-1" frameY="-14" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0006" x="139" y="0" width="72" height="63" frameX="-1" frameY="-14" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0007" x="139" y="0" width="72" height="63" frameX="-1" frameY="-14" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0008" x="139" y="0" width="72" height="63" frameX="-1" frameY="-14" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0009" x="139" y="0" width="72" height="63" frameX="-1" frameY="-14" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0010" x="139" y="0" width="72" height="63" frameX="-1" frameY="-14" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0011" x="139" y="0" width="72" height="63" frameX="-1" frameY="-14" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0012" x="139" y="0" width="72" height="63" frameX="-1" frameY="-14" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0013" x="139" y="0" width="72" height="63" frameX="-1" frameY="-14" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0014" x="67" y="0" width="72" height="64" frameX="-1" frameY="-13" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0015" x="67" y="0" width="72" height="64" frameX="-1" frameY="-13" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0016" x="67" y="0" width="72" height="64" frameX="-1" frameY="-13" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0017" x="0" y="0" width="67" height="69" frameX="0" frameY="-8" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0018" x="0" y="0" width="67" height="69" frameX="0" frameY="-8" frameWidth="73" frameHeight="78"/>
+	<SubTexture name="fishlook0019" x="0" y="69" width="62" height="78" frameX="0" frameY="0" frameWidth="73" frameHeight="78"/>
+</TextureAtlas>

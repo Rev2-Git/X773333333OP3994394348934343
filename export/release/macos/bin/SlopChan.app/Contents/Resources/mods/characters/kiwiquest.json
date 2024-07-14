@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kiwi IDLE"
+		},
+		{
+			"offsets": [
+				58,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "kiwi LEFT"
+		},
+		{
+			"offsets": [
+				-60,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "kiwi RIGHT"
+		},
+		{
+			"offsets": [
+				68,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "kiwi UP"
+		},
+		{
+			"offsets": [
+				-34,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "kiwi DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kiwiquest",
+	"position": [
+		-30,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

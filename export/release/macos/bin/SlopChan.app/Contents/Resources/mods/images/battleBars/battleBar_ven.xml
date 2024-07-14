@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="battleBar.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="chompFull0000" x="0" y="1014" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0001" x="0" y="1014" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0002" x="1601" y="0" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0003" x="1601" y="0" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0004" x="0" y="0" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0005" x="0" y="507" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0006" x="1601" y="507" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0007" x="1601" y="1521" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0008" x="1601" y="1521" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0009" x="1601" y="1014" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0010" x="0" y="1521" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="chompFull0011" x="0" y="1521" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="openAnim0000" x="0" y="1014" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="openAnim0001" x="0" y="1014" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="openAnim0002" x="1601" y="0" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="openAnim0003" x="1601" y="0" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="openAnim0004" x="1601" y="0" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="closeAnim0000" x="0" y="0" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="closeAnim0001" x="0" y="507" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="closeAnim0002" x="1601" y="507" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="closeAnim0003" x="1601" y="1521" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="closeAnim0004" x="1601" y="1521" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="closeAnim0005" x="1601" y="1014" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="closeAnim0006" x="0" y="1521" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="closeAnim0007" x="0" y="1521" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="closeAnim0008" x="0" y="1521" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+	<SubTexture name="openStatic0000" x="1601" y="0" width="1601" height="507" frameX="2" frameY="2" frameWidth="1597" frameHeight="503"/>
+</TextureAtlas>

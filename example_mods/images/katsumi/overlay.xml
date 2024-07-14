@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="overlay.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="overlay instance 10000" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10001" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10002" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10003" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10004" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10005" x="1867" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10006" x="1867" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10007" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10008" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10009" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10010" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10011" x="1867" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10012" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10013" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10014" x="1867" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10015" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10016" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10017" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10018" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10019" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10020" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10021" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10022" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10023" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10024" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10025" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10026" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10027" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10028" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10029" x="1867" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10030" x="1867" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10031" x="1867" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10032" x="1867" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10033" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10034" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10035" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10036" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10037" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10038" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10039" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10040" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10041" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10042" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10043" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10044" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10045" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10046" x="0" y="0" width="1864" height="1686"/>
+	<SubTexture name="overlay instance 10047" x="0" y="0" width="1864" height="1686"/>
+</TextureAtlas>

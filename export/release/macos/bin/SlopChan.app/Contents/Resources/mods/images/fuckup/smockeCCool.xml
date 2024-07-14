@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smockeCCool.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smockeCCool0000" x="2" y="2" width="916" height="1876" frameX="-12" frameY="-139" frameWidth="1005" frameHeight="2061"/>
+	<SubTexture name="smockeCCool0001" x="2" y="2" width="916" height="1876" frameX="-12" frameY="-139" frameWidth="1005" frameHeight="2061"/>
+	<SubTexture name="smockeCCool0002" x="920" y="2" width="960" height="1968" frameX="-14" frameY="-69" frameWidth="1005" frameHeight="2061"/>
+	<SubTexture name="smockeCCool0003" x="920" y="2" width="960" height="1968" frameX="-14" frameY="-69" frameWidth="1005" frameHeight="2061"/>
+	<SubTexture name="smockeCCool0004" x="1882" y="2" width="899" height="1957" frameX="-71" frameY="-92" frameWidth="1005" frameHeight="2061"/>
+	<SubTexture name="smockeCCool0005" x="1882" y="2" width="899" height="1957" frameX="-71" frameY="-92" frameWidth="1005" frameHeight="2061"/>
+	<SubTexture name="smockeCCool0006" x="2783" y="2" width="939" height="1766" frameX="-66" frameY="-295" frameWidth="1005" frameHeight="2061"/>
+	<SubTexture name="smockeCCool0007" x="2783" y="2" width="939" height="1766" frameX="-66" frameY="-295" frameWidth="1005" frameHeight="2061"/>
+	<SubTexture name="smockeCCool0008" x="2" y="1972" width="984" height="1921" frameX="0" frameY="0" frameWidth="1005" frameHeight="2061"/>
+	<SubTexture name="smockeCCool0009" x="2" y="1972" width="984" height="1921" frameX="0" frameY="0" frameWidth="1005" frameHeight="2061"/>
+</TextureAtlas>

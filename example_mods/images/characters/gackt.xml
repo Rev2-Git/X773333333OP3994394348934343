@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gackt.png"><SubTexture name="gackt idle0000" x="0" y="0" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt idle0001" x="698" y="0" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt idle0002" x="1396" y="0" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt idle0003" x="0" y="800" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt idle0004" x="698" y="800" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt left0000" x="1396" y="800" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt left0001" x="0" y="1600" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt down0000" x="698" y="1600" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt down0001" x="1396" y="1600" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt up0000" x="0" y="2400" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt up0001" x="698" y="2400" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt right0000" x="1396" y="2400" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+<SubTexture name="gackt right0001" x="0" y="3200" width="698" height="800" frameX="0" frameY="0" frameWidth="698" frameHeight="800" />
+</TextureAtlas>

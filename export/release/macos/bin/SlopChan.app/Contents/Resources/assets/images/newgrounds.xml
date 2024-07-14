@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newgrounds.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ng logo0000" x="10" y="10" width="487" height="628" pivotX="61.65" pivotY="138.2" frameX="0" frameY="-1" frameWidth="487" frameHeight="629"/>
+	<SubTexture name="ng logo0001" x="10" y="10" width="487" height="628" frameX="0" frameY="-1" frameWidth="487" frameHeight="629"/>
+	<SubTexture name="ng logo0002" x="10" y="10" width="487" height="628" frameX="0" frameY="-1" frameWidth="487" frameHeight="629"/>
+	<SubTexture name="ng logo0003" x="10" y="10" width="487" height="628" frameX="0" frameY="-1" frameWidth="487" frameHeight="629"/>
+	<SubTexture name="ng logo0004" x="507" y="10" width="487" height="629"/>
+	<SubTexture name="ng logo0005" x="507" y="10" width="487" height="629"/>
+	<SubTexture name="ng logo0006" x="507" y="10" width="487" height="629"/>
+	<SubTexture name="ng logo0007" x="507" y="10" width="487" height="629"/>
+	<SubTexture name="ng logo0008" x="1004" y="10" width="487" height="628" frameX="0" frameY="-1" frameWidth="487" frameHeight="629"/>
+	<SubTexture name="ng logo0009" x="1004" y="10" width="487" height="628" frameX="0" frameY="-1" frameWidth="487" frameHeight="629"/>
+	<SubTexture name="ng logo0010" x="1004" y="10" width="487" height="628" frameX="0" frameY="-1" frameWidth="487" frameHeight="629"/>
+	<SubTexture name="ng logo0011" x="1004" y="10" width="487" height="628" frameX="0" frameY="-1" frameWidth="487" frameHeight="629"/>
+</TextureAtlas>

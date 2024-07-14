@@ -1,0 +1,167 @@
+{
+	"songs": [
+		[
+			"fuckup",
+			"river",
+			[
+				255,
+				53,
+				75
+			]
+		],
+		[
+			"katalyst",
+			"kat",
+			[
+				255,
+				73,
+				73
+			]
+		],
+		[
+			"venomous",
+			"kiddo",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"jargon",
+			"mayo",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"mantik",
+			"mantik",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"jaysong",
+			"dad",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"ghostsong",
+			"dad",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"open-season",
+			"dad",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"beanz",
+			"dad",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"boltbuster",
+			"dad",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"honey-dew",
+			"dad",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"mordmare",
+			"dad",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"fry",
+			"frydj",
+			[
+				53,
+				53,
+				235
+			]
+		],
+		[
+			"wilding",
+			"funk",
+			[
+				93,
+				93,
+				93
+			]
+		],
+		[
+			"leg spreader",
+			"mom",
+			[
+				93,
+				93,
+				93
+			]
+		],
+		[
+			"sludge",
+			"po",
+			[
+				255,
+				93,
+				93
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

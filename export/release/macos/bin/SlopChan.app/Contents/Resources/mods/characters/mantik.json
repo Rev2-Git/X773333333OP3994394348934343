@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mantikleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-131
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mantikdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				56
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mantikup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-119
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mantikright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mantikidle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				129,
+				-61
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "rockidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				803,
+				305
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stand",
+			"indices": [],
+			"name": "mantikstand"
+		},
+		{
+			"offsets": [
+				5,
+				-12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				16,
+				17,
+				18
+			],
+			"name": "mantikleft"
+		},
+		{
+			"offsets": [
+				-51,
+				56
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				17,
+				18
+			],
+			"name": "mantikup"
+		},
+		{
+			"offsets": [
+				-47,
+				-119
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				17,
+				18
+			],
+			"name": "mantikright"
+		},
+		{
+			"offsets": [
+				7,
+				-131
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				17,
+				18
+			],
+			"name": "mantikdown"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "mantikidle",
+			"indices": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			]
+		},
+		{
+			"offsets": [
+				66,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "altleft"
+		},
+		{
+			"offsets": [
+				43,
+				-78
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "altdown"
+		},
+		{
+			"offsets": [
+				-40,
+				149
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "altup"
+		},
+		{
+			"offsets": [
+				-93,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "altright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mantik",
+	"position": [
+		60,
+		100
+	],
+	"healthicon": "mantik",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		64,
+		132
+	],
+	"camera_position": [
+		-70,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
